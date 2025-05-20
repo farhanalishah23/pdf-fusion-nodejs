@@ -29,7 +29,7 @@
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/pdf-fusion-nodejs.git
+git clone https://github.com/farhanalishah23/pdf-fusion-nodejs.git
 cd pdf-fusion-nodejs
 npm install
 
