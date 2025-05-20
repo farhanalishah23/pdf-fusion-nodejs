@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="120"/>
+  <img src="https://positiwise.com/blog/wp-content/uploads/2021/12/node-js-for-software-development-1200x600-1.jpg" alt="Node.js Logo" width="120"/>
 </p>
 
 # 📄 PDF Fusion Node.js
 
 **PDF Fusion Node.js** is a simple tool built with Node.js to merge multiple PDF files into a single document quickly and easily.  
-**PDF Fusion Node.js** ایک آسان اور تیزی سے کام کرنے والا ٹول ہے جو متعدد PDF فائلز کو ایک فائل میں ضم کرتا ہے Node.js کا استعمال کرتے ہوئے۔
+
 
 ---
 
@@ -20,7 +20,7 @@
 ## 🛠️ Technologies Used
 
 - Node.js
-- [pdf-merger-js](https://beecrowd.com/wp-content/uploads/2024/04/2022-11-25-Nodes-js.jpg)
+- [pdf-merger-js]
 
 ---
 
